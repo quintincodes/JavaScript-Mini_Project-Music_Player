@@ -19,6 +19,6 @@ This **JavaScript-based project** is an interactive music player. It showcases f
 
 ## Disclaimer
 
-This project is part of the **JavaScript Algorithms and Data Structures Projects** on freeCodeCamp. The original project tutorial can be found [here](Link to FCC project or tutorial).
+This project is part of the **JavaScript Algorithms and Data Structures Projects** on freeCodeCamp. The original project tutorial can be found [here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/).
 
 _Don't forget to star ⭐ this repo if you liked or found it useful!_
