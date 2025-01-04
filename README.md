@@ -9,7 +9,7 @@ _#freeCodeCamp JavaScript Algorithms and Data Structures Projects_
 ### Example or Live Demo
 
 -   **Example (Optional)**: A music player with play/pause, forward, and backward functionality, displaying the current song title.
--   **Live Demo**: [Music Player](Link to GitHub Pages or Live Demo)
+-   **Live Demo**: [Music Player](https://quintin-dev.github.io/JavaScript-Mini_Project-Music_Player/)
 
 ## Features
 
