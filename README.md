@@ -6,16 +6,16 @@ This **JavaScript-based project** is an interactive music player. It showcases f
 
 ## Live Demo
 
--   To view the project, click here: [Music Player](https://quintin-dev.github.io/JavaScript-Mini_Project-Music_Player/)
+- To view the project, click here: [Music Player](https://quintincodes.github.io/JavaScript-Mini_Project-Music_Player/)
 
 ## Features
 
--   **Play/Pause Controls**
-    -   Toggle between playing and pausing the current song.
--   **Next and Previous Navigation**
-    -   Skip to the next song or go back to the previous one in the playlist.
--   **Dynamic Song Title Display**
-    -   Show the title of the currently playing song.
+- **Play/Pause Controls**
+  - Toggle between playing and pausing the current song.
+- **Next and Previous Navigation**
+  - Skip to the next song or go back to the previous one in the playlist.
+- **Dynamic Song Title Display**
+  - Show the title of the currently playing song.
 
 ## Disclaimer
 
